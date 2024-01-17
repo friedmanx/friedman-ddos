@@ -1,10 +1,10 @@
-# Joker-Ddos
+# Friedman-Ddos
 
 # Hello World
 
-$ Chỉ cần "pip install requests" không cần setup gì hết
+$ Thid Ddos Working only in linux/Google Cloud / Windows
 
-# Làm thế nào để chạy?
-$ Linux: python3 joker.py
 
-$ Windows: python joker.py
+$ Linux: python3 friedman.py
+
+$ Windows: python friedman.py
